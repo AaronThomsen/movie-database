@@ -7,7 +7,7 @@ The database was the final project for my Data Structures class, where we had to
 * Stack 
 * Binary Search Tree
 
-The program allows the user to update the movie database (add/delete movies), undo a delete, search for a movie, display the movies in various ways, compare the gross total of two movies, and save the current database (including any changes) to a text file. 
+The program allows the user to update the movie database (add/delete movies), undo a delete, search for a movie, display the movies in various ways, compare the gross total of two movies, and save the current database (including any changes) to a text file. All user input is validated to prevent the program from crashing.
 
 Below are a few screenshots.
 
